@@ -3,7 +3,7 @@
 I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) -- a personal collection of life philosophies, lessons learned, and personal influences. And also by how Dad keeps a massive Word document . I thought I'd jump on board, too.
 
 Side commentary:
-Still working out Markdown and Git though. Is there an unwritten rule to how much you should write before you can commit your changes? Like, is it fine to be committing all these rough drafts at once, or should I get it solid before pressing that commit button? Those are surface details anyhow. Let's not worry about that for now, and let's just get started.d
+Still working out Markdown and Git though. Is there an unwritten rule to how much you should write before you can commit your changes? Like, is it fine to be committing all these rough drafts at once, or should I get it solid before pressing that commit button? Those are surface details anyhow. Let's not worry about that for now, and let's just get started.
 
 This will be a living, breathing document. I hope to dedicate myself to maintaining and developing this as I go along in life.
 
@@ -15,13 +15,28 @@ I am 22. It's been a year since I've graduated from college. And at this very mo
 
 #### 1. Beliefs / Philosophies
 
-- Belief One.
-- Belief Two.
+- People are for the most part, inherently good.
+- Cynicism is an easy trap to fall into.
+- Righteous anger is a dangerous and intoxicating trap.
+- Rights and duties are the same. (Eric Liu)
+- Political Views (ooo)
+* 
 
 #### 2. Influences
 
 - Cool book here.
-- Cool person here. (e.g. Who are your heroes?)
+- Cool person here. (e.g. Who are your heroes?) Maria Popova, Krista Tippett, P.G. Wodehouse, 
 - Cool podcast here.
 
+Ray Dalio's Principles book, 
+
 #### 3. Ways of moving about in the world.
+
+
+
+#### 4. Litmus tests, or questions to ask myself, or others.
+
+
+#### 5. 
+
+
