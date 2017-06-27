@@ -1,6 +1,6 @@
 # Codex Vitae - Wesley Chan
 
-I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) -- a personal collection of life philosophies, lessons learned, and personal influences. And also by how Dad keeps a massive Word document . I thought I'd jump on board, too.
+I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) -- a personal collection of life philosophies, lessons learned, and personal influences. And also by how Dad keeps a massive Word document; his own Master Document that contains his life thoughts and documentation about household stuff. I thought I'd jump on board, too.
 
 Side commentary:
 Still working out Markdown and Git though. Is there an unwritten rule to how much you should write before you can commit your changes? Like, is it fine to be committing all these rough drafts at once, or should I get it solid before pressing that commit button? Those are surface details anyhow. Let's not worry about that for now, and let's just get started.
