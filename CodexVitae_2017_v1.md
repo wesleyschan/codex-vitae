@@ -2,7 +2,7 @@
 
 I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) -- a personal collection of life philosophies, lessons learned, and personal influences. And also by how Dad keeps a massive Word document; his own Master Document that contains his life thoughts and documentation about household stuff. I thought I'd jump on board, too.
 
-This will be a living, breathing document. Rough? Definitely, for now at least. But I'll be returning to this regularly.
+This will be a living, breathing document. Rough? Unpolished? Definitely, for now at least. But I'll be returning to this regularly.
 
 ## Where am I in life as I write this? 
 
