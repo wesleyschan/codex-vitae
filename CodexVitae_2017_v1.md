@@ -15,12 +15,12 @@ I am 22. It's been a year since I've graduated from college. And at this very mo
 
 #### 1. Beliefs / Philosophies
 
-- People are for the most part, inherently good.
+- People are for the most part, inherently good. And even if they're not, go ahead and treat others and strangers as if they were. Set the standard for cooperation.
 - Cynicism is an easy trap to fall into.
 - Righteous anger is a dangerous and intoxicating trap.
 - Rights and duties are the same. (Eric Liu)
 - Political Views (ooo)
-* 
+
 
 #### 2. Influences
 
@@ -32,11 +32,11 @@ Ray Dalio's Principles book,
 
 #### 3. Ways of moving about in the world.
 
-
+- Establishing roots
 
 #### 4. Litmus tests, or questions to ask myself, or others.
 
 
-#### 5. 
+#### 5. On careers.
 
 
