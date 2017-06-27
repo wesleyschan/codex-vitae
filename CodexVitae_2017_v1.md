@@ -13,12 +13,15 @@ I am 22. It's been a year since I've graduated from college. And at this very mo
 
 ## Table of Contents
 
-#### 1. Beliefs
+#### 1. Beliefs / Philosophies
 
 - Belief One.
-- Belief TWo.
+- Belief Two.
 
 #### 2. Influences
 
 - Cool book here.
-- Cool person here.
+- Cool person here. (e.g. Who are your heroes?)
+- Cool podcast here.
+
+#### 3. Ways of moving about in the world.
