@@ -6,9 +6,11 @@ This will be a living, breathing document. Rough? Unpolished? Definitely, for no
 
 ## Where am I in life as I write this? 
 
-I am 22. It's been a year since I've graduated from college. And at this very moment (June 2017), I am on the job hunt. I moved back home to San Jose after years of living in San Diego for school. So you could say that I'm in a reflective moment. 
+I am 22. It's been a year since I've graduated from college. And three months since I've left the bird's nest at the university design lab. And at this very moment (June 2017), I am on the job hunt. I moved back home to San Jose after years of living in San Diego for school. You could say that I'm in a reflective moment. 
 
 ## Table of Contents
+
+#### What matters? Priorities in life (as of now).
 
 #### 1. Beliefs / Philosophies
 
@@ -17,6 +19,7 @@ I am 22. It's been a year since I've graduated from college. And at this very mo
 - Cynicism is an easy trap to fall into.
 - There's more to work and career and life than productivity itself.
 - Righteous anger is a dangerous and intoxicating trap.
+- Beware the cult of happiness. (I say this as a jolly fellow). 
 - Rights and duties are the same. (Eric Liu)
 - Political Views (ooo)
 
@@ -45,7 +48,8 @@ Ray Dalio's Principles book,
 #### 5. On careers.
 
 
+## What matters?
+
 
 ## 1. Beliefs & Philosophies 
-
 
