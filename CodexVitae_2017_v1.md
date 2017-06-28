@@ -1,10 +1,10 @@
 # Codex Vitae - Wesley Chan
 
-I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that have shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. 
+I love [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that have shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. 
 
 Anyways, I thought I'd jump on board, too.
 
-This will be a living document, and something I'll return to regularly. I figured it would be good to get started and write bit by bit instead of worrying about perfection.
+This will be a living document, and something for myself to return to regularly. Thought it would be cool when I get older to see how my younger self was thinking about the world. I thought I'd get started and write bit by bit instead of worrying about perfection.
 
 ## Where am I in life as I write this? 
 
@@ -46,6 +46,7 @@ Ray Dalio's Principles book,
 
 - When spending time with someone, ask: "Is this the kind of person I'd want to have breakfast with?". And flip the question around to yourself, too: "Am I someone other people would want to have breakfast with?"
 - When thinking of revenge, ask: "Is this the kind of person I want to be?"
+- Who do you have inside your inner council? (Idea from Eric Greitens)
 
 #### 5. On careers.
 
@@ -66,14 +67,16 @@ Ray Dalio's Principles book,
 
 ## 1. Beliefs & Philosophies 
 
-- **People are for the most part, inherently good.** Or at the very least, they tend to be reciprocal. And even if they're not, go ahead and treat others and strangers as if they were. Set the standard for cooperation.
+- **People are for the most part, inherently good.** Or at the very least, they tend to be reciprocal. And even if they're not, go ahead and treat others and strangers as if they were. Set the standard for cooperation. (Even a nod and smile is enough, at least in American culture. That may be culturally specific). I realize that may be awfully naive, but I think it's everybody's duty to help break the chain when we're all stuck in a cycle of violence or despair. 
 - Your body and mind are not separable. The human body is not just a vessel for the mind. 
 - **Cynicism is a convenient trap to fall into.** I am not one to talk about this. 
 - **Is productivity the only measure of a person's work?** No!! And yet, there's this obsession with it. There's more to work than productivity itself.
 - Righteous anger is a dangerous and intoxicating trap.
 - **Beware the cult of happiness.** Happiness, at least by the western interpretation of it (being blissful, . I say this as a jolly fellow. To give credence only to this emotion is to  
-- Rights and duties are the same. (Eric Liu)
+- **Rights and duties are the different sides of the same coin.** (Eric Liu -- what was the direct quotation again?). 
 - Political Views (ooo)
+
+**Beware the false dichotomy.** Those false dichotomies present themselves constantly, just in different shapes during the course of a life. (Think of that internet meme: In school, it's choosing academics, social life, or sleep.) It could mean choosing career or family. Career or love. But it's not always one or the other -- sometimes there's some wiggle room. [chew more on this] ________ . You cannot have everything in life, sure, and the hardest part at times is making a decision. What will you prioritize?
 
 ## 2. Influences
 
@@ -82,6 +85,8 @@ Favorite books:
 Authors: 
 
 Podcasts: 
+
+Favorite articles:
 
 
 ## On Running
