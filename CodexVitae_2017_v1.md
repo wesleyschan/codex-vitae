@@ -8,7 +8,7 @@ This will be a living document, and something for myself to return to regularly.
 
 ## Where am I in life as I write this? 
 
-I am 22. It's been a year since I've graduated from college, and three months since I've left the bird's nest at the university design lab. It's now June 2017. I've jumped into another bird's nest -- my hometown of San Jose -- after years of living in San Diego for school. While I wouldn't say this was exactly as I had planned (my wish would be to say that I have a swanky new job and/or a gradudate school offer), I think it would be good to take this as an opportunity to reflect and grow. Creating this Codex Vitae is one way I hope to accomplish that.
+I am 22. It's now June 2017. I turn 23 in November 2017. It's been a year since I've graduated from college, and three months since I've left the bird's nest at the university design lab. I've jumped into another bird's nest -- my hometown of San Jose -- after years of living in San Diego for school. While I wouldn't say this was exactly as I had planned (my wish would be to say that I have a swanky new job and/or a gradudate school offer), I think it would be good to take this as an opportunity to reflect and grow. Creating this Codex Vitae is one way I hope to accomplish that.
 
 ## Table of Contents
 
@@ -88,6 +88,10 @@ Podcasts:
 
 Favorite articles:
 
+John Gardner, 
+
+"You and Your Research"
+
 I went to a Catholic high school for four years without being Catholic myself. It was actually quite relaxed -- perhaps even unconventional. Some of my teachers were former Jesuit priests who left the priesthood so they could marry and start a family. [How did that change you? ________] Got exposed to all sorts of different faiths and backgrounds, and I can see where religion serves as an anchor for many people.
 
 
@@ -98,4 +102,8 @@ Places to stretch:
 
 
 ## On Running
+
+
+
+## On Research
 
