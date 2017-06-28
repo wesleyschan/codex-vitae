@@ -71,7 +71,7 @@ Ray Dalio's Principles book,
 - Your body and mind are not separable. The human body is not just a vessel for the mind. 
 - **Cynicism is a convenient trap to fall into.** I am not one to talk about this. 
 - **Is productivity the only measure of a person's work?** No!! And yet, there's this obsession with it. There's more to work than productivity itself.
-- Righteous anger is a dangerous and intoxicating trap.
+- **Righteous anger is a dangerous and intoxicating trap.** I won't pretend that I don't fall for it sometimes.
 - **Beware the cult of happiness.** Happiness, at least by the western interpretation of it (being blissful, . I say this as a jolly fellow. To give credence only to this emotion is to  
 - **Rights and duties are the different sides of the same coin.** (Eric Liu -- what was the direct quotation again?). 
 - Political Views (ooo)
@@ -87,6 +87,14 @@ Authors:
 Podcasts: 
 
 Favorite articles:
+
+I went to a Catholic high school for four years without being Catholic myself. It was actually quite relaxed -- perhaps even unconventional. Some of my teachers were former Jesuit priests who left the priesthood so they could marry and start a family. [How did that change you? ________] Got exposed to all sorts of different faiths and backgrounds, and I can see where religion serves as an anchor for many people.
+
+
+During the presidential election in 2016, I learned that some friends were DREAMers.
+
+
+Places to stretch:
 
 
 ## On Running
