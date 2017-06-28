@@ -2,9 +2,9 @@
 
 I love [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that have shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. I've never read through it, I just know it's there and he opens it from time to time.
 
-Anyways, I thought I'd jump on board, too.
+I thought I'd jump on board, too.
 
-This will be a living document, and something for myself to return to regularly. Thought it would be cool when I get older to see how my younger self was thinking about the world. I thought I'd get started and write bit by bit instead of worrying about perfection.
+This will be a living document, and something for myself to return to regularly. Would be cool when I get older to see how my younger self was thinking about the world, and how my thoughts and beliefs change throughout a lifetime. I also thought I'd get started and write bit by bit instead of sitting on my buns worrying about perfectionism. Now is not the time to be a weenie!!
 
 ## Where am I in life as I write this? 
 
