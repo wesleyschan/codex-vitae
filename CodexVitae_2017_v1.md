@@ -1,8 +1,10 @@
 # Codex Vitae - Wesley Chan
 
-I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) -- a personal collection of life philosophies, lessons learned, and personal influences. And also by how Dad keeps a massive Word document; his own Master Document that contains his life thoughts and documentation about household stuff. I thought I'd jump on board, too.
+I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that have shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. 
 
-This will be a living document. Rough? Unpolished? Definitely -- especially in the beginning. Some sentences may be half-baked or end abruptly when you read this, but I'll be returning to this regularly.
+Anyways, I thought I'd jump on board, too.
+
+This will be a living document, and something I'll return to regularly. I figured it would be good to get started and write bit by bit instead of worrying about perfection.
 
 ## Where am I in life as I write this? 
 
@@ -63,6 +65,23 @@ Ray Dalio's Principles book,
 
 
 ## 1. Beliefs & Philosophies 
+
+- **People are for the most part, inherently good.** Or at the very least, they tend to be reciprocal. And even if they're not, go ahead and treat others and strangers as if they were. Set the standard for cooperation.
+- Your body and mind are not separable. The human body is not just a vessel for the mind. 
+- **Cynicism is a convenient trap to fall into.** I am not one to talk about this. 
+- **Is productivity the only measure of a person's work?** No!! And yet, there's this obsession with it. There's more to work than productivity itself.
+- Righteous anger is a dangerous and intoxicating trap.
+- **Beware the cult of happiness.** Happiness, at least by the western interpretation of it (being blissful, . I say this as a jolly fellow. To give credence only to this emotion is to  
+- Rights and duties are the same. (Eric Liu)
+- Political Views (ooo)
+
+## 2. Influences
+
+Favorite books:
+
+Authors: 
+
+Podcasts: 
 
 
 ## On Running
