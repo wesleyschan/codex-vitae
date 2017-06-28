@@ -2,11 +2,11 @@
 
 I am inspired by [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md) -- a personal collection of life philosophies, lessons learned, and personal influences. And also by how Dad keeps a massive Word document; his own Master Document that contains his life thoughts and documentation about household stuff. I thought I'd jump on board, too.
 
-This will be a living, breathing document. Rough? Unpolished? Definitely, for now at least. But I'll be returning to this regularly.
+This will be a living document. Rough? Unpolished? Definitely -- especially in the beginning. Some sentences may be half-baked or end abruptly when you read this, but I'll be returning to this regularly.
 
 ## Where am I in life as I write this? 
 
-I am 22. It's been a year since I've graduated from college. And three months since I've left the bird's nest at the university design lab. And at this very moment (June 2017), I am on the job hunt. I moved back home to San Jose after years of living in San Diego for school. You could say that I'm in a reflective moment. 
+I am 22. It's been a year since I've graduated from college, and three months since I've left the bird's nest at the university design lab. It's now June 2017. I've jumped into another bird's nest -- my hometown of San Jose -- after years of living in San Diego for school. While I wouldn't say this was exactly as I had planned (my wish would be to say that I have a swanky new job and/or a gradudate school offer), I think it would be good to take this as an opportunity to reflect and grow. Creating this Codex Vitae is one way I hope to accomplish that.
 
 ## Table of Contents
 
@@ -48,8 +48,22 @@ Ray Dalio's Principles book,
 #### 5. On careers.
 
 
+#### 6. What I need to keep reminding myself. (Or: lessons I keep having to relearn). 
+
+- An obsession with fairness can lead to your premature demise. What I mean by that is ____.
+- Every person you meet is an opportunity to learn.
+- Freedom is not only defined by the absence of coercion or duties. (Or: why I got annoyed with abstract libertarian ideologies after months of being dazzled by them, and years of flirting).
+
+#### 7. Healthy habits.
+
+- On running.
+- On freewriting.
+
 ## What matters?
 
 
 ## 1. Beliefs & Philosophies 
+
+
+## On Running
 
