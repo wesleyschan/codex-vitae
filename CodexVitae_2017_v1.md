@@ -1,6 +1,6 @@
 # Codex Vitae - Wesley Chan
 
-I love [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that have shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. 
+I love [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that have shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. I've never read through it, I just know it's there and he opens it from time to time.
 
 Anyways, I thought I'd jump on board, too.
 
