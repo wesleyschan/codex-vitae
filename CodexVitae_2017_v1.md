@@ -1,6 +1,6 @@
 # Codex Vitae - Wesley Chan
 
-I love [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that have shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. I've never read through it, I just know it's there and he opens it from time to time.
+I love [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob/master/Codex.md). It's his collection of life philosophies, beliefs, and influences in his life that shaped his thinking. The project also reminded me of how Dad maintains his own massive Word document -- filled with hundreds of pages that contains his thoughts and documentation about household stuff. I've never read through it, I just know it's there and he opens it from time to time.
 
 I thought I'd jump on board, too.
 
@@ -83,9 +83,9 @@ What I believe, and how I try to live that out.
 ## 2. Influences
 
 Favorite books:
-- 
--
--
+- Tiny Beautiful Things by Cheryl Strayed
+- The Diving Bell and the Butterfly
+- On Fire by Larry Brown
 
 Authors: 
 - Larry Brown
@@ -122,6 +122,8 @@ Places to stretch:
 I like running (or more accurately, I like having done it). It's calming after the first 20 or 30 minutes. And then I go up and down in terms of how I feel about it throughout the course of the run. 
 
 On marathons: if you can run a half-marathon, then you can run a full marathon, 100%. I'm biased, but I think everybody should try it at least once in their lifetime, provided your joints are healthy. 
+
+(What about that Bojack Horseman clip, with how in running, it gets easier every day you do it. It's just that running every day is the hard part). 
 
 ## On Research
 
