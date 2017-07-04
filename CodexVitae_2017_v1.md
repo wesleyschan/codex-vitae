@@ -4,13 +4,13 @@ I love [Buster Benson's Codex Vitae](https://github.com/busterbenson/public/blob
 
 I thought I'd jump on board, too.
 
-This will be a living document, and something for myself to return to regularly. Would be cool when I get older to see how my younger self was thinking about the world, and how my thoughts and beliefs change throughout a lifetime. I also thought I'd get started and write bit by bit instead of sitting on my buns worrying about perfectionism. Now is not the time to be a weenie!!
+This will be a living document, and something for myself to return to regularly. Would be cool when I get older to see how my younger self was thinking about the world, and how my thoughts and beliefs change throughout a lifetime. I also thought I'd get started and write bit by bit instead of sitting on my buns worrying about perfectionism. Now is not the time to be a weenie.
 
 ## Where am I in life as I write this? 
 
 I am 22. It's now June 2017. I turn 23 in November 2017. It's been a year since I've graduated from college, and three months since I've left the bird's nest at the university design lab. I've jumped into another bird's nest -- my hometown of San Jose -- after years of living in San Diego for school. While I wouldn't say this was exactly as I had planned (my wish would be to say that I have a swanky new job and/or a gradudate school offer), I think it would be good to take this as an opportunity to reflect and grow. Creating this Codex Vitae is one way I hope to accomplish that.
 
-## Table of Contents
+## Table of Contents (Perhaps I should worry about this later, afte I finish the other parts?)
 
 #### What matters? Priorities in life (as of now).
 
@@ -71,7 +71,7 @@ What I believe, and how I try to live that out.
 
 - **People are for the most part, inherently good.** Or at the very least, they tend to be reciprocal. And even if they're not, go ahead and treat others and strangers as if they were. Set the standard for cooperation. (Even a nod and smile is enough, at least in American culture. That may be culturally specific). I realize that may be awfully naive, but I think it's everybody's duty to help break the chain when we're all stuck in a cycle of violence or despair. Lack of cooperation is not reason enough to use force. (Note that this is different from watching someone put another person in grave danger).
 - **Your body and mind are not separable.** (or: peace out Cartesian dualism). The human body is not just a vessel for the mind. 
-- **Cynicism is a convenient trap to fall into.** Starting in high school and college, I noticed that humor in those ages tends to have more of a bite. More on tearing things down, as opposed to revealing something. ((Something about it feels unsettling, but why? Will have to think on this some more)). 
+- **Cynicism is a convenient trap to fall into.** I like what Maria Popova writes as her final lesson in "10 Years of Brain Pickings" -- #10: "Don't just resist cynicism, fight it actively." Starting in high school and college, I noticed that humor in those ages tends to have more of a bite. More on tearing things down, as opposed to revealing something. ((Something about it feels unsettling, but why? Will have to think on this some more)). 
 - **Is productivity the only measure of a person's work?** No!! And yet, there's this obsession with it. There's more to work than productivity itself.
 - **Righteous anger is a dangerous and intoxicating trap.** I won't pretend that I don't fall for it sometimes.
 - **Beware the cult of happiness.** Happiness, at least by the western interpretation of it (being blissful, . I say this as a jolly fellow. To give credence only to this emotion is to  
@@ -105,7 +105,7 @@ Favorite historical figures:
 
 Favorite articles:
 
-John Gardner, "On Leadership"
+John Gardner, "Personal Renewal" http://www.pbs.org/johngardner/sections/writings_speech_1.html
 
 "You and Your Research" by Richard Hamming: http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
